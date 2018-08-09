@@ -135,7 +135,7 @@ body {
   background-color: #f7ed4a !important;
 }
 .bg-info {
-  background-color: #82786e !important;
+  background-color: #b1a374 !important;
 }
 .bg-warning {
   background-color: #879a9f !important;
@@ -185,8 +185,8 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #82786e !important;
-  border-color: #82786e !important;
+  background-color: #b1a374 !important;
+  border-color: #b1a374 !important;
   color: #ffffff !important;
 }
 .btn-info:hover,
@@ -194,14 +194,14 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff !important;
-  background-color: #59524b !important;
-  border-color: #59524b !important;
+  background-color: #8b7d4e !important;
+  border-color: #8b7d4e !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #59524b !important;
-  border-color: #59524b !important;
+  background-color: #8b7d4e !important;
+  border-color: #8b7d4e !important;
 }
 .btn-success,
 .btn-success:active {
@@ -349,22 +349,22 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #4b453f;
-  color: #4b453f;
+  border-color: #7a6e45;
+  color: #7a6e45;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #82786e;
-  border-color: #82786e;
+  background-color: #b1a374;
+  border-color: #b1a374;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #82786e !important;
-  border-color: #82786e !important;
+  background-color: #b1a374 !important;
+  border-color: #b1a374 !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -470,7 +470,7 @@ body {
   color: #f7ed4a !important;
 }
 .text-info {
-  color: #82786e !important;
+  color: #b1a374 !important;
 }
 .text-warning {
   color: #879a9f !important;
@@ -498,7 +498,7 @@ a.text-success:focus {
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #4b453f !important;
+  color: #7a6e45 !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
@@ -520,7 +520,7 @@ a.text-black:focus {
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #82786e;
+  background-color: #b1a374;
 }
 .alert-warning {
   background-color: #879a9f;
@@ -574,7 +574,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #beb8b2;
+  color: #dfd9c6;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -1930,6 +1930,20 @@ body {
 .cid-qZsKxZTanX .mbr-timeline-title {
   color: #232323;
 }
+.cid-r0e6qKXQYM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #ffffff, #e4d295);
+}
+.cid-r0e6qKXQYM .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-r0e6qKXQYM H2 {
+  color: #232323;
+}
+.cid-r0e6qKXQYM H3 {
+  color: #232323;
+}
 .cid-qZnDKDCFzM {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1940,43 +1954,6 @@ body {
 }
 .cid-qZnDKDCFzM .mbr-section-subtitle {
   color: #232323;
-}
-.cid-qZnDmqx7zS {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qZnDmqx7zS .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qZnDmqx7zS .media-row {
-  display: flex;
-  justify-content: center;
-}
-.cid-qZnDmqx7zS .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-qZnDmqx7zS .team-item .item-image img {
-  width: 100%;
-}
-.cid-qZnDmqx7zS .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-qZnDmqx7zS .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-qZnDmqx7zS .team-item .item-social {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.cid-qZnDmqx7zS .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-qZnDmqx7zS .team-item .item-caption {
-  background: #e4d295;
 }
 .cid-qZsKpocvv4 {
   padding-top: 90px;
@@ -2077,4 +2054,16 @@ body {
 }
 .cid-qZnE6gbSm3 H5 {
   color: #e4d295;
+}
+.cid-r0e5mxWcPY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-r0e5mxWcPY .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-r0e5mxWcPY .social-list a:focus {
+  text-decoration: none;
 }
